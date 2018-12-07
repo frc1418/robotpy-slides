@@ -2,4 +2,5 @@ channels:
   - damianavila82
 dependencies:
   - rise
+  - jupyter_contrib_nbextensions
   - python=3.6
